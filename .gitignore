@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hazel-aria-352717",
+  "private_key_id": "291891252f7df7511002690a33ec0ff068367159",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEd60GIEdXqAme\ncjMXL6PhBqNGGD+GouEvlwWHIRFEEXOY+rIEZyIVi6eqqLTV4T/CwZSKov0CVYEZ\nLFf+uRFScuORBy5XljxzinbizKNm1GeTIbtZzf6IjyTuuvsR4rDBHpCpf9VypUBT\n1wBGnw2eacMws3eKCc4xQE8BvMhepgZd5sKG3uNB5smDRgSP/uID2a7PF+1F35k8\n7hzevPelzH9P9LoBCBXkwdVZXGL03GpJ8FfruP82fiMMyCNYtacSwTQWfrTABiK+\nI2b8HBsb9bRy3XuJjts0n/lylCvu9ZhK+VIwMZZ5G01atxCOpanGvDoCLUJwGWkj\nzrz3eakhAgMBAAECggEACJvMVG+DZME/i6ZqG+7Z1c04SATdurjmGFNcGgXOR37i\nw24fsP7yYMKN6hXKl7EPHcnk5/a4kpq7xYY6hFYoXsYbN9J6Wrrh4verGii4k7PE\npo8ksgyLRcFM71t4zxmxYELmOJEaAZQhV5MdB1smif2NIJQKjb08gE62r4ctuezl\nf+Ymxyy/EHsqd2s0YXNCRSih3HAIoq8wJwasjO5Mla0GviDx9QB7iMS0z1l59Smb\nIHeJNQ7QNC8vdx44iV1gobecc3OojIrKBisTO4NkIx3FJJITHVEsk8FYgg7RunMI\nzSM1lMVa5dGPyjfDsf6d2JaoVZwEiaI3sTJM3tCdoQKBgQDqiCPM47RtUeVW+D55\n+XChCwr9ItCUvbDUq1CxvU2RYZGwi+bhGVzrjiVrOqPMPPn3PInkhgPIn8YShyz6\nnPCSPEUzWLnVT7n+KTu8KBP+lW4ew0fSWdNzCumhc7cJ4KzqA/4M/5TELpvMyL3g\nYaFRhPxh8qNJ2ue8peCSEH5bUQKBgQDWc5AEkvMq41CgdT1h5oUvhHHBXjG+QLlR\nj00n8rlKbqeCQHRnkag+GH906cCvWvmz0rcO/zryDmvfxoAfT0A02D7mLkDJ5DoK\nOEshzLi+uth2qlbC8uKQQKFWRuN7SppGBobHW+wGknG4G1thpvosfTX7t+tllhig\np23xv4Bc0QKBgQDpJ25vwe8cvs3AKAn0OIY/kzrZbELvm6Svx5/xEsCKRvUPDgX4\nwb4ebrHEaAdugy/9GbH7/T7FtBC1WqzceCixODmTUiFsblX41gUMiMtXzDYtXvWH\nqMUNGUwptV/B8hn0iwOE6JB8d9lrPCWHa4d0A0DkHtM2GOlIIZ+flcYIAQKBgQDM\nGfSJxepVeT91V9/x21oLHXy+0w14y1UVQNPoH2UmaCZZG0sufzymzN4RwZ+3xVg+\nQ2Aij9vkIMGemue55M1w/hbvMDpNbD+pFma7ZoK2VFJMrlYg+NWVAU4MNS+wWhJ2\nbyO7fcsnfh1pYfAZAri7uvez+Rm695282V0UZnSe4QKBgDVvTXEJehGGZz2lV1OX\nheYuzab6wB5rP0HCrUZ6WeFqEXTnWJ8zMHf2jylZ428m9iBwGNrQWAFD999z1G9E\nwsjGBkI0SF0s9fRC9BN8uYuvF2j+kZjdUvD7k6FAzLh9/v17hJdTp2FFxuqwqNXZ\nkeksHZWcHdx/h6RywGq+BZuq\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-service-account@hazel-aria-352717.iam.gserviceaccount.com",
+  "client_id": "115141375222415982147",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-service-account%40hazel-aria-352717.iam.gserviceaccount.com"
+}
